@@ -1,0 +1,119 @@
+canonical_identifier: bkk:krp/KR3j0020/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR3j0020/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 樂菴語錄
+  date: '2015-08-24 23:19:51.308922'
+  source:
+    repository: kanripo
+    path: KR3j0020
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR3j0020_000-WYG.yaml, hash: 'sha256:67cdc236cfeffe7875e0ccf5bf1c8d1b41a6fa3c9bdf5f9f1f092473721c54b7'}
+  - {seq: 1, filename: KR3j0020_001-WYG.yaml, hash: 'sha256:d646f6c3600c0515952ab9e26b1f55da58c64db296b93d4c436a37ca180ad10c'}
+  - {seq: 2, filename: KR3j0020_002-WYG.yaml, hash: 'sha256:c359b33cb0b7ffc1ac2e6df27316bd8f57fc8603efa0e45d2eef3778384a8d45'}
+  - {seq: 3, filename: KR3j0020_003-WYG.yaml, hash: 'sha256:cc809c163c9ecf82fcd93c7d0812a23ee25796d932a6494ad13066bd1e5a6ddc'}
+  - {seq: 4, filename: KR3j0020_004-WYG.yaml, hash: 'sha256:a062e3b8c1726e55f969bf68b9f0a4df12f81f0fa42c86fb15474c881318b2d2'}
+  - {seq: 5, filename: KR3j0020_005-WYG.yaml, hash: 'sha256:dc2defd507a22202c64286f9e0159e9d868c428b7410f31dccbe8eef88d2ee08'}
+  - {seq: 6, filename: KR3j0020_006-WYG.yaml, hash: 'sha256:0bc640b0d764c168684323e5702ee915df728b1cf2310a33f1ff58d1034ea6a3'}
+  - {seq: 7, filename: KR3j0020_007-WYG.yaml, hash: 'sha256:5164ec138cf7c48dfe09ceea08390a3a2ad669a4395acf96739c9732e719bf47'}
+  - {seq: 8, filename: KR3j0020_008-WYG.yaml, hash: 'sha256:c660f1897c8ea9217e4af5d46baef282a782d71188bae792823927d4fad61320'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3j0020_001-WYG.markers.yaml, hash: 'sha256:45521d7907450c092785980859179f0fe36d966bf428bce65ab086c731ecd2ff'}
+  - {seq: 2, role: markers, filename: assets/KR3j0020_002-WYG.markers.yaml, hash: 'sha256:78554f704d9e9456602d6f9c82652be5f23286b0ebc1d6bb7f941a67026d891a'}
+  - {seq: 3, role: markers, filename: assets/KR3j0020_003-WYG.markers.yaml, hash: 'sha256:25bd17f1f526a725a21846c38998520acf67650d90e8b6229b665f5038196606'}
+  - {seq: 4, role: markers, filename: assets/KR3j0020_004-WYG.markers.yaml, hash: 'sha256:a81630a7e0f17b29f955ede074d15336021119e8748942f086c0caa80c7a27b8'}
+  - {seq: 5, role: markers, filename: assets/KR3j0020_005-WYG.markers.yaml, hash: 'sha256:d7fa0f8cc87c9baba6609f935a11a7c4e003aee2cb6a8c46abd2072ca1614915'}
+  - {seq: 6, role: markers, filename: assets/KR3j0020_006-WYG.markers.yaml, hash: 'sha256:3a1741b8f07ae0190ae0ba8cc5af0f3b1b0889d2364a3349772023172a58d87a'}
+  - {seq: 7, role: markers, filename: assets/KR3j0020_007-WYG.markers.yaml, hash: 'sha256:628d9ecf16f53ab500c15b3836de6648d8d2a137b4b68952532fdd1b6cc25a50'}
+  - {seq: 8, role: markers, filename: assets/KR3j0020_008-WYG.markers.yaml, hash: 'sha256:7fc24e81fdf5b7e4101a163d192be1291b440502fae0ef21bd278c0400272486'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3j0020_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 2611
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3j0020_WYG_002-1a
+    span:
+    - body
+    - 0
+    - 1883
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3j0020_WYG_003-1a
+    span:
+    - body
+    - 0
+    - 2490
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3j0020_WYG_004-1a
+    span:
+    - body
+    - 0
+    - 1713
+  label: 卷四
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3j0020_WYG_005-1a
+    span:
+    - body
+    - 0
+    - 3101
+  label: 卷五
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3j0020_WYG_006-1a
+    span:
+    - body
+    - 0
+    - 542
+  label: 宋史本傳
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR3j0020_WYG_007-1a
+    span:
+    - body
+    - 0
+    - 383
+  label: 後序
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR3j0020_WYG_008-1a
+    span:
+    - body
+    - 0
+    - 1380
+  label: 後跋
+  type: section
+  level: 1
+hash: sha256:58890ad07aab4ea00a37855c3c8f96e2b600725666f9f4142b7fd43bad0d519d

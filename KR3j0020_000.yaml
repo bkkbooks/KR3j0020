@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3j0020/krp/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 樂菴語錄
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:19:51.308922'
+  source:
+    repository: kanripo
+    path: KR3j0020/KR3j0020_000.txt
+hash: sha256:274cbbf3dfd9768bdccbbd9f95f304bb5f57eaedd968f3d4ff1b1daaf96044d5
